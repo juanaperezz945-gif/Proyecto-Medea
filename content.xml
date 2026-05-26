@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260526182009Q3KSLO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260526182009SWUCAU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PROYECTO FINAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Juana Pérez García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779789003325</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpmgf3jr-lipctxvpp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto (Tarea 2.1)</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmgf3jr-lipctxvpp</odePageId>
+      <odeBlockId>block-1779692619653-goqxs5up9</odeBlockId>
+      <blockName></blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmgf3jr-lipctxvpp</odePageId>
+          <odeBlockId>block-1779692619653-goqxs5up9</odeBlockId>
+          <odeIdeviceId>idevice-1779692619651-x7kl9jbru</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>MEDEA: PASIÓN, PODER Y CONSECUENCIAS</h1>
+<p><img src="{{context_path}}/content/resources/download.jpg" width="205" height="245" alt="" /></p>
+<h2>DESCRIPCIÓN GENERAL:</h2>
+<p>El alumnado analizará la obra Medea de Eurípides mediante lectura, debate y actividades interactivas. Se pretende que comprendan los elementos de la tragedia griega y reflexionen sobre temas universales como la venganza, la injusticia y el papel de la mujer.</p>
+<p>El producto final será una presentación interactiva en eXeLearning donde incluirán análisis, reflexiones y actividades. </p>
+<h3>CENTRO DE INTERÉS - TEMÁTICA</h3>
+<p>-Las emociones extremas (amor, odio, venganza).</p>
+<p>-El papel de la mujer en la Antigüedad.</p>
+<p>-La justicia y las consecuencias de los actos. </p>
+<h3><br />NIVEL AL QUE VA DIRIGIDO:</h3>
+<p>4º de ESO / 1º de Bachillerato</p>
+<h3><br />TEMPORALIZACIÓN:</h3>
+<p>6 sesiones ( aprox. 2 semanas)</p>
+<h3><br />MATERIAS IMPLICADAS:</h3>
+<p>-Lengua Castellana y Literatura.</p>
+<p>-Geografía e Historia.</p>
+<p>-Valores Éticos / Filosofía.</p>
+<p>-Latín y Griego.</p>
+<h3><br />IDIOMA:</h3>
+<p>-Español.</p>
+<h2><br />ELEMENTOS OBLIGATORIOS DEL PRODUCTO FINAL:</h2>
+<h3>PRESENTACIÓN DEL PROYECTO.<br />Introducción a la obra Medea, objetivos y estructura del proyecto.</h3>
+<p><br />SEGURIDAD Y DERECHOS DIGITALES.<br />Uso responsable de imágenes, textos y recursos, respetando la privacidad y la propiedad intelectual.</p>
+<p><br />DESCRIPCIÓN DEL PRODUCTO FINAL.<br />Creación de un recurso digital en eXeLearning sobre Medea con actividades, análisis y reflexiones.</p>
+<p><br />CURACIÓN DE CONTENIDOS.<br />Selección y organización de vídeos, textos, imágenes y recursos de calidad sobre la obra.</p>
+<p><br />LÍNEA TEMPORAL.<br />-Grecia clásica.</p>
+<p>-Eurípides (autor).</p>
+<p>-Representación de Medea.</p>
+<p><br />ACTIVIDADES.<br />-Comentario de texto.</p>
+<p>-Debate: Es justificable Medea</p>
+<p>-Análisis de personajes.</p>
+<p>-Creación de final alternativo.</p>
+<p><br /></p>
+<p>EVALUACIÓN.<br />Rúbrica basada en:</p>
+<p>-Comprensión de la obra.</p>
+<p>-Reflexión crítica.</p>
+<p>-Presentación digital.</p>
+<p><br />ORGANIZACIÓN Y DISEÑO:</p>
+<p>-Navegación clara por sección.</p>
+<p>-Uso de imágenes, vídeos y esquemas.</p>
+<p>-Diseño atractivo, accesible e inclusivo (DUA).</p>
+<p><br />DERECHOS DE AUTOR:</p>
+<p>Se citarán todas las fuentes y se utilizarán recursos con licencia libre y respetando los derechos de autor.</p>
+<p><br />METADATOS:</p>
+<p>-Autor: Juana Pérez</p>
+<p>-Curso: Competencia Digital Docente B2.</p>
+<p>-Fecha: 27 de abril de 2026.</p>
+<p>-Asignaturas principales: Lengua y Latín.</p>
+<p><br />GUÍA DIDÁCTICA:</p>
+<p>Incluirá: </p>
+<p>-Objetivos didácticos.</p>
+<p>-Competencias claves.</p>
+<p>-Criterios de evaluación.</p>
+<p>-Recomendaciones para el profesorado.</p>
+<p><br />CRÉDITOS:</p>
+<p>-Autoría del contenido.</p>
+<p>-Licencia utilizada.</p>
+<p>-Recursos empleados ( imágenes, vídeos, música, textos…)</p>
+<p><img id="dimg_CDwUapzaAYny7M8PwqDrwAU_13" src="{{context_path}}/content/resources/download_1.jpg" alt="Medea: bruja, "bárbara" y mujer" class="YQ4gaf" height="158" width="319" data-csiid="CDwUapzaAYny7M8PwqDrwAU_15" data-atf="1" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779692619651-x7kl9jbru","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>MEDEA: PASIÓN, PODER Y CONSECUENCIAS</h1>\n<p><img src=\"{{context_path}}/content/resources/download.jpg\" width=\"205\" height=\"245\" alt=\"\" /></p>\n<h2>DESCRIPCIÓN GENERAL:</h2>\n<p>El alumnado analizará la obra Medea de Eurípides mediante lectura, debate y actividades interactivas. Se pretende que comprendan los elementos de la tragedia griega y reflexionen sobre temas universales como la venganza, la injusticia y el papel de la mujer.</p>\n<p>El producto final será una presentación interactiva en eXeLearning donde incluirán análisis, reflexiones y actividades. </p>\n<h3>CENTRO DE INTERÉS - TEMÁTICA</h3>\n<p>-Las emociones extremas (amor, odio, venganza).</p>\n<p>-El papel de la mujer en la Antigüedad.</p>\n<p>-La justicia y las consecuencias de los actos. </p>\n<h3><br />NIVEL AL QUE VA DIRIGIDO:</h3>\n<p>4º de ESO / 1º de Bachillerato</p>\n<h3><br />TEMPORALIZACIÓN:</h3>\n<p>6 sesiones ( aprox. 2 semanas)</p>\n<h3><br />MATERIAS IMPLICADAS:</h3>\n<p>-Lengua Castellana y Literatura.</p>\n<p>-Geografía e Historia.</p>\n<p>-Valores Éticos / Filosofía.</p>\n<p>-Latín y Griego.</p>\n<h3><br />IDIOMA:</h3>\n<p>-Español.</p>\n<h2><br />ELEMENTOS OBLIGATORIOS DEL PRODUCTO FINAL:</h2>\n<h3>PRESENTACIÓN DEL PROYECTO.<br />Introducción a la obra Medea, objetivos y estructura del proyecto.</h3>\n<p><br />SEGURIDAD Y DERECHOS DIGITALES.<br />Uso responsable de imágenes, textos y recursos, respetando la privacidad y la propiedad intelectual.</p>\n<p><br />DESCRIPCIÓN DEL PRODUCTO FINAL.<br />Creación de un recurso digital en eXeLearning sobre Medea con actividades, análisis y reflexiones.</p>\n<p><br />CURACIÓN DE CONTENIDOS.<br />Selección y organización de vídeos, textos, imágenes y recursos de calidad sobre la obra.</p>\n<p><br />LÍNEA TEMPORAL.<br />-Grecia clásica.</p>\n<p>-Eurípides (autor).</p>\n<p>-Representación de Medea.</p>\n<p><br />ACTIVIDADES.<br />-Comentario de texto.</p>\n<p>-Debate: Es justificable Medea</p>\n<p>-Análisis de personajes.</p>\n<p>-Creación de final alternativo.</p>\n<p><br /></p>\n<p>EVALUACIÓN.<br />Rúbrica basada en:</p>\n<p>-Comprensión de la obra.</p>\n<p>-Reflexión crítica.</p>\n<p>-Presentación digital.</p>\n<p><br />ORGANIZACIÓN Y DISEÑO:</p>\n<p>-Navegación clara por sección.</p>\n<p>-Uso de imágenes, vídeos y esquemas.</p>\n<p>-Diseño atractivo, accesible e inclusivo (DUA).</p>\n<p><br />DERECHOS DE AUTOR:</p>\n<p>Se citarán todas las fuentes y se utilizarán recursos con licencia libre y respetando los derechos de autor.</p>\n<p><br />METADATOS:</p>\n<p>-Autor: Juana Pérez</p>\n<p>-Curso: Competencia Digital Docente B2.</p>\n<p>-Fecha: 27 de abril de 2026.</p>\n<p>-Asignaturas principales: Lengua y Latín.</p>\n<p><br />GUÍA DIDÁCTICA:</p>\n<p>Incluirá: </p>\n<p>-Objetivos didácticos.</p>\n<p>-Competencias claves.</p>\n<p>-Criterios de evaluación.</p>\n<p>-Recomendaciones para el profesorado.</p>\n<p><br />CRÉDITOS:</p>\n<p>-Autoría del contenido.</p>\n<p>-Licencia utilizada.</p>\n<p>-Recursos empleados ( imágenes, vídeos, música, textos…)</p>\n<p><img id=\"dimg_CDwUapzaAYny7M8PwqDrwAU_13\" src=\"{{context_path}}/content/resources/download_1.jpg\" alt=\"Medea: bruja, \"bárbara\" y mujer\" class=\"YQ4gaf\" height=\"158\" width=\"319\" data-csiid=\"CDwUapzaAYny7M8PwqDrwAU_15\" data-atf=\"1\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmgf3k5-yqdeg8gku</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Salud digital para el alumnado (Tarea 2.3)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Salud digital para el alumnado (Tarea 2.3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Salud digital para el alumnado (Tarea 2.3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Salud digital para el alumnado (Tarea 2.3)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmgf3k5-yqdeg8gku</odePageId>
+      <odeBlockId>block-1779711179626-jr9t11omp</odeBlockId>
+      <blockName></blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmgf3k5-yqdeg8gku</odePageId>
+          <odeBlockId>block-1779711179626-jr9t11omp</odeBlockId>
+          <odeIdeviceId>idevice-1779711179624-nxsew4l0u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>SEGURIDAD DIGITAL PARA EL ALUMNADO<br />Protege tu identidad y tus trabajos en internet</h1>
+<p></p>
+<p>1. Protege tus datos personales<br />• No compartas información sensible (dirección, teléfono, contraseñas).<br />• Usa contraseñas seguras (largas, con letras, números y símbolos).<br />• No reutilices la misma contraseña en varias cuentas.</p>
+<p>2. Cuida tu identidad digital<br />• Piensa antes de publicar: lo que subes puede quedarse para siempre.<br />• Configura la privacidad en redes sociales.<br />• Usa un nick si no es necesario mostrar tu nombre real.</p>
+<p>3. Navega de forma segura<br />• No hagas clic en enlaces desconocidos.<br />• Evita descargar archivos de sitios no fiables.<br />• Cierra sesión en dispositivos compartidos.</p>
+<p> 4. Respeta las licencias y derechos<br />• No copies contenidos sin permiso.<br />• Usa recursos con licencias abiertas como Creative Commons.<br />• Cita siempre las fuentes de información, imágenes o música.</p>
+<p><br />5. Comparte contenido de forma responsable<br />• Publica solo contenido propio o con permiso.<br />• Respeta a los demás (evita insultos o difusión de información falsa).<br />• Pide consentimiento antes de subir fotos de otras personas.</p>
+<p>6. Sé crítico en internet<br />• Verifica la información antes de compartirla.<br />• No todo lo que ves en internet es cierto.<br />• Consulta varias fuentes fiables.</p>
+<p>7. Actúa ante problemas<br />• Si algo te incomoda, comunícalo a un adulto o profesor.<br />• Bloquea y reporta usuarios ofensivos.<br />• Guarda pruebas si hay acoso digital.</p>
+<p>Y RECUERDA<br />Tu seguridad digital es tu responsabilidad. ¡Protégete y navega con cabeza!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779711179624-nxsew4l0u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>SEGURIDAD DIGITAL PARA EL ALUMNADO<br />Protege tu identidad y tus trabajos en internet</h1>\n<p></p>\n<p>1. Protege tus datos personales<br />• No compartas información sensible (dirección, teléfono, contraseñas).<br />• Usa contraseñas seguras (largas, con letras, números y símbolos).<br />• No reutilices la misma contraseña en varias cuentas.</p>\n<p>2. Cuida tu identidad digital<br />• Piensa antes de publicar: lo que subes puede quedarse para siempre.<br />• Configura la privacidad en redes sociales.<br />• Usa un nick si no es necesario mostrar tu nombre real.</p>\n<p>3. Navega de forma segura<br />• No hagas clic en enlaces desconocidos.<br />• Evita descargar archivos de sitios no fiables.<br />• Cierra sesión en dispositivos compartidos.</p>\n<p> 4. Respeta las licencias y derechos<br />• No copies contenidos sin permiso.<br />• Usa recursos con licencias abiertas como Creative Commons.<br />• Cita siempre las fuentes de información, imágenes o música.</p>\n<p><br />5. Comparte contenido de forma responsable<br />• Publica solo contenido propio o con permiso.<br />• Respeta a los demás (evita insultos o difusión de información falsa).<br />• Pide consentimiento antes de subir fotos de otras personas.</p>\n<p>6. Sé crítico en internet<br />• Verifica la información antes de compartirla.<br />• No todo lo que ves en internet es cierto.<br />• Consulta varias fuentes fiables.</p>\n<p>7. Actúa ante problemas<br />• Si algo te incomoda, comunícalo a un adulto o profesor.<br />• Bloquea y reporta usuarios ofensivos.<br />• Guarda pruebas si hay acoso digital.</p>\n<p>Y RECUERDA<br />Tu seguridad digital es tu responsabilidad. ¡Protégete y navega con cabeza!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmgf3k7-ede0adrp7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del proyecto final del alumnado (Tarea 4.1)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto final del alumnado (Tarea 4.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto final del alumnado (Tarea 4.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmgf3k7-ede0adrp7</odePageId>
+      <odeBlockId>block-1779711966521-ip35v5aw0</odeBlockId>
+      <blockName></blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmgf3k7-ede0adrp7</odePageId>
+          <odeBlockId>block-1779711966521-ip35v5aw0</odeBlockId>
+          <odeIdeviceId>idevice-1779711966519-ya9qocif6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>DESCRIPCIÓN DEL PROYECTO FINAL</h1>
+<p>Para la elaboración del producto final centrado en el mito de Medea, se propone el uso combinado de varias herramientas digitales que permitan al alumnado trabajar de forma creativa, crítica y competencial. En concreto, se plantea utilizar Canva para la creación de presentaciones visuales o infografías narrativas del mito; Genially para diseñar una historia interactiva en la que el alumnado pueda explorar decisiones del personaje de Medea; Padlet como espacio colaborativo donde recopilar ideas, interpretaciones y reflexiones; Google Docs para la redacción y organización de la información de manera colaborativa; y herramientas de audio como Audacity o Vocaroo para la grabación de narraciones o dramatizaciones del mito en formato podcast o relato sonoro.</p>
+<h2>Objetivo del uso de estas herramientas</h2>
+<p>El objetivo principal de la utilización de estas herramientas es que el alumnado comprenda el mito de Medea desde una perspectiva crítica, analizando sus temas principales como la venganza, la traición o la justicia. Además, se pretende que desarrollen habilidades de expresión digital en distintos formatos —visual, oral y escrito—, fomentando así una competencia digital integral. Todo ello culminará en la creación de un producto final multimedia, que puede adoptar la forma de una presentación interactiva, una narrativa digital o un podcast.</p>
+<h2>Justificación de la elección</h2>
+<p>La elección de estas herramientas responde a varios criterios clave. En primer lugar, su versatilidad, ya que permiten integrar diferentes lenguajes (texto, imagen, audio e interactividad), enriqueciendo el proceso de aprendizaje. En segundo lugar, su accesibilidad, puesto que son herramientas online, en su mayoría gratuitas y con un manejo intuitivo, lo que facilita su implementación en el aula. Asimismo, contribuyen a aumentar la motivación del alumnado, al promover la creatividad y la participación activa. Finalmente, favorecen un aprendizaje significativo, ya que el alumnado pasa de ser un mero receptor de información a convertirse en creador de contenido.</p>
+<h2>Contexto, edad y competencia digital</h2>
+<p>Esta propuesta está dirigida a alumnado de Educación Secundaria, concretamente entre los 12 y los 16 años, con un nivel de competencia digital medio. Las herramientas seleccionadas permiten una adecuada adaptación a estas características: Canva ofrece una interfaz sencilla ideal para iniciarse en el diseño digital; Genially permite avanzar hacia niveles mayores de interactividad; Padlet destaca por su facilidad de uso y su carácter intuitivo; Google Docs facilita el trabajo colaborativo en tiempo real; y las herramientas de audio suponen una alternativa inclusiva para alumnado con mayores dificultades en la expresión escrita.</p>
+<h2>Contexto del centro y disponibilidad</h2>
+<p>La propuesta es viable en centros educativos que dispongan de ordenadores o tablets con acceso a internet. En caso de recursos limitados, se puede optar por el trabajo cooperativo en pequeños grupos, favoreciendo además el aprendizaje entre iguales. Asimismo, todas las herramientas propuestas son compatibles con el trabajo desde casa, lo que facilita su aplicación en contextos de aprendizaje híbrido o semipresencial.</p>
+<h2>Accesibilidad</h2>
+<p>Se trata de una propuesta inclusiva, ya que permite trabajar mediante distintos canales (visual, auditivo y textual), favoreciendo un aprendizaje multimodal. Además, ofrece la posibilidad de incorporar subtítulos en presentaciones o audios, lo que mejora la accesibilidad para todo el alumnado. El trabajo colaborativo también contribuye a atender a la diversidad presente en el aula. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779711966519-ya9qocif6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>DESCRIPCIÓN DEL PROYECTO FINAL</h1>\n<p>Para la elaboración del producto final centrado en el mito de Medea, se propone el uso combinado de varias herramientas digitales que permitan al alumnado trabajar de forma creativa, crítica y competencial. En concreto, se plantea utilizar Canva para la creación de presentaciones visuales o infografías narrativas del mito; Genially para diseñar una historia interactiva en la que el alumnado pueda explorar decisiones del personaje de Medea; Padlet como espacio colaborativo donde recopilar ideas, interpretaciones y reflexiones; Google Docs para la redacción y organización de la información de manera colaborativa; y herramientas de audio como Audacity o Vocaroo para la grabación de narraciones o dramatizaciones del mito en formato podcast o relato sonoro.</p>\n<h2>Objetivo del uso de estas herramientas</h2>\n<p>El objetivo principal de la utilización de estas herramientas es que el alumnado comprenda el mito de Medea desde una perspectiva crítica, analizando sus temas principales como la venganza, la traición o la justicia. Además, se pretende que desarrollen habilidades de expresión digital en distintos formatos —visual, oral y escrito—, fomentando así una competencia digital integral. Todo ello culminará en la creación de un producto final multimedia, que puede adoptar la forma de una presentación interactiva, una narrativa digital o un podcast.</p>\n<h2>Justificación de la elección</h2>\n<p>La elección de estas herramientas responde a varios criterios clave. En primer lugar, su versatilidad, ya que permiten integrar diferentes lenguajes (texto, imagen, audio e interactividad), enriqueciendo el proceso de aprendizaje. En segundo lugar, su accesibilidad, puesto que son herramientas online, en su mayoría gratuitas y con un manejo intuitivo, lo que facilita su implementación en el aula. Asimismo, contribuyen a aumentar la motivación del alumnado, al promover la creatividad y la participación activa. Finalmente, favorecen un aprendizaje significativo, ya que el alumnado pasa de ser un mero receptor de información a convertirse en creador de contenido.</p>\n<h2>Contexto, edad y competencia digital</h2>\n<p>Esta propuesta está dirigida a alumnado de Educación Secundaria, concretamente entre los 12 y los 16 años, con un nivel de competencia digital medio. Las herramientas seleccionadas permiten una adecuada adaptación a estas características: Canva ofrece una interfaz sencilla ideal para iniciarse en el diseño digital; Genially permite avanzar hacia niveles mayores de interactividad; Padlet destaca por su facilidad de uso y su carácter intuitivo; Google Docs facilita el trabajo colaborativo en tiempo real; y las herramientas de audio suponen una alternativa inclusiva para alumnado con mayores dificultades en la expresión escrita.</p>\n<h2>Contexto del centro y disponibilidad</h2>\n<p>La propuesta es viable en centros educativos que dispongan de ordenadores o tablets con acceso a internet. En caso de recursos limitados, se puede optar por el trabajo cooperativo en pequeños grupos, favoreciendo además el aprendizaje entre iguales. Asimismo, todas las herramientas propuestas son compatibles con el trabajo desde casa, lo que facilita su aplicación en contextos de aprendizaje híbrido o semipresencial.</p>\n<h2>Accesibilidad</h2>\n<p>Se trata de una propuesta inclusiva, ya que permite trabajar mediante distintos canales (visual, auditivo y textual), favoreciendo un aprendizaje multimodal. Además, ofrece la posibilidad de incorporar subtítulos en presentaciones o audios, lo que mejora la accesibilidad para todo el alumnado. El trabajo colaborativo también contribuye a atender a la diversidad presente en el aula. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmgf3k9-2jq5ekj5z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos (Tarea 5.1)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos (Tarea 5.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenidos (Tarea 5.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmgf3k9-2jq5ekj5z</odePageId>
+      <odeBlockId>block-1779712368827-i191bpzj1</odeBlockId>
+      <blockName>Parte 1</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmgf3k9-2jq5ekj5z</odePageId>
+          <odeBlockId>block-1779712368827-i191bpzj1</odeBlockId>
+          <odeIdeviceId>idevice-1779712368825-d23xi6do7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Curación de contenidos</span></span></h1>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recursos y aplicaciones para estudiar lenguas clásicas.</span></span></p>
+<h2><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Introducción</span></span></h2>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En esta curación de contenidos estaré presentando algunos de los mejores recursos que podrían usar los alumnos del bachillerato humanístico para tener una mejor experiencia mientras estudian lenguas clásicas.</span></span></p>
+<h2><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramientas.</span></span></h2>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">1. Canva</span></span></h3>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramienta online para crear presentaciones, infografías y diseños fácilmente. Muy útil para trabajos escolares y exposiciones.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Web: </span></span><a href="https://www.canva.com"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www.canva.com</span></span></a></p>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2. Google Drive</span></span></h3>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Plataforma para guardar archivos en la nube y compartir documentos entre compañeros.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Web: </span></span><a href="https://drive.google.com"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://drive.google.com</span></span></a></p>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">3. Kahoot</span></span></h3>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Aplicación para crear cuestionarios y juegos educativos interactivos.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Web: </span></span><a href="https://kahoot.com"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://kahoot.com</span></span></a></p>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">4.Quizlet</span></span></h3>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramienta para estudiar mediante tarjetas de memoria y pruebas.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Web: </span></span><a href="https://quizlet.com"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://quizlet.com</span></span></a></p>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">5. YouTube Educación</span></span></h3>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Canal con vídeos educativos sobre historia, lengua, filosofía y muchas más materias.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Web: </span></span><a href="https://www.youtube.com"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www.youtube.com</span></span></a></p>
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tutoriales y recursos utilizados</span></span></h2>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tutorial de Wakelet</span></span></strong></p>
+<p><a href="https://www.youtube.com/results?search_query=tutorial+wakelet+español" title=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www.youtube.com/results?search_query=tutorial+wakelet+español</span></span></a></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tutorial de Canva</span></span></strong></p>
+<p><a href="https://www.youtube.com/results?search_query=tutorial+canva+español " title=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www.youtube.com/results?search_query=tutorial+canva+español </span></span></a></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tutorial de Google Drive</span></span></strong></p>
+<p><a href="https://www.youtube.com/results?search_query=tutorial+google+drive+español" title=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www.youtube.com/results?search_query=tutorial+google+drive+español</span></span></a></p>
+<h2><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Explicación</span></span></h2>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">He utilizado Google Docs para crear una recopilación organizada de herramientas digitales útiles para estudiantes. La plataforma permite añadir enlaces, imágenes y vídeos de manera sencilla. También usó tutoriales de YouTube para aprender a utilizar las aplicaciones y organizar correctamente la información.</span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779712368825-d23xi6do7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Curación de contenidos</span></span></h1>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Recursos y aplicaciones para estudiar lenguas clásicas.</span></span></p>\n<h2><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Introducción</span></span></h2>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">En esta curación de contenidos estaré presentando algunos de los mejores recursos que podrían usar los alumnos del bachillerato humanístico para tener una mejor experiencia mientras estudian lenguas clásicas.</span></span></p>\n<h2><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramientas.</span></span></h2>\n<h3><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1. Canva</span></span></h3>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramienta online para crear presentaciones, infografías y diseños fácilmente. Muy útil para trabajos escolares y exposiciones.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Web: </span></span><a href=\"https://www.canva.com\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www.canva.com</span></span></a></p>\n<h3><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2. Google Drive</span></span></h3>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Plataforma para guardar archivos en la nube y compartir documentos entre compañeros.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Web: </span></span><a href=\"https://drive.google.com\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://drive.google.com</span></span></a></p>\n<h3><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">3. Kahoot</span></span></h3>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Aplicación para crear cuestionarios y juegos educativos interactivos.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Web: </span></span><a href=\"https://kahoot.com\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://kahoot.com</span></span></a></p>\n<h3><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">4.Quizlet</span></span></h3>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramienta para estudiar mediante tarjetas de memoria y pruebas.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Web: </span></span><a href=\"https://quizlet.com\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://quizlet.com</span></span></a></p>\n<h3><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">5. YouTube Educación</span></span></h3>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Canal con vídeos educativos sobre historia, lengua, filosofía y muchas más materias.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Web: </span></span><a href=\"https://www.youtube.com\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www.youtube.com</span></span></a></p>\n<h2><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Tutoriales y recursos utilizados</span></span></h2>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Tutorial de Wakelet</span></span></strong></p>\n<p><a href=\"https://www.youtube.com/results?search_query=tutorial+wakelet+español\" title=\"\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www.youtube.com/results?search_query=tutorial+wakelet+español</span></span></a></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Tutorial de Canva</span></span></strong></p>\n<p><a href=\"https://www.youtube.com/results?search_query=tutorial+canva+español \" title=\"\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www.youtube.com/results?search_query=tutorial+canva+español </span></span></a></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Tutorial de Google Drive</span></span></strong></p>\n<p><a href=\"https://www.youtube.com/results?search_query=tutorial+google+drive+español\" title=\"\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www.youtube.com/results?search_query=tutorial+google+drive+español</span></span></a></p>\n<h2><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Explicación</span></span></h2>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">He utilizado Google Docs para crear una recopilación organizada de herramientas digitales útiles para estudiantes. La plataforma permite añadir enlaces, imágenes y vídeos de manera sencilla. También usó tutoriales de YouTube para aprender a utilizar las aplicaciones y organizar correctamente la información.</span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmgf3k9-2jq5ekj5z</odePageId>
+      <odeBlockId>block-1779712721490-8n8cokkrc</odeBlockId>
+      <blockName>Parte 2</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmgf3k9-2jq5ekj5z</odePageId>
+          <odeBlockId>block-1779712721490-8n8cokkrc</odeBlockId>
+          <odeIdeviceId>idevice-1779712721486-dxrzjjwsl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>RECURSOS Y APLICACIONES PARA ESTUDIAR LENGUAS CLÁSICAS</h1>
+<h2>EXPLICACIÓN</h2>
+<p>He utilizado canva para organizar diferentes recursos digitales relacionados con las asignaturas de Latín y Griego. Esta herramienta permite crear un mural interactivo donde se pueden añadir enlaces, imágenes y explicaciones de manera clara y visual. También se han utilizado tutoriales de YouTube para aprender a manejar la plataforma y encontrar recursos educativos fiables sobre cultura clásica, gramática y traducción.</p>
+<h2>HERRAMIENTAS</h2>
+<p><strong>1.- DICCIONARIO LATÍN-GRIEGO LOGEIGON</strong><br />Página muy útil para buscar palabras en latín y griego clásico, con significados y ejemplos.<br />Web: <a href="https://logeion.uchicago.edu">https://logeion.uchicago.edu</a></p>
+<p><strong>2.- PERSEUS DIGITAL LIBRARY</strong><br />Biblioteca digital con textos clásicos en latín y griego, traducciones y análisis.<br />Web: <a href="https://www.perseus.tufts.edu">https://www.perseus.tufts.edu</a></p>
+<p><strong>3.- AULA DE LATÍN</strong><br />Página educativa con apuntes, ejercicios y explicaciones de gramática latina.<br />Web: <a href="https://www.auladelatin.com">https://www.auladelatin.com</a></p>
+<p><strong>4.-DICCIONARIO GRIEGO-ESPAÑOL</strong> <br />Herramienta académica para consultar vocabulario griego clásico.<br />Web: <a href="http://dge.cchs.csic.es">http://dge.cchs.csic.es</a></p>
+<p><strong>5.-YOUTUBE</strong><br />Canales y vídeos educativos sobre mitología, cultura romana y griega.<br />Web: <a href="https://www.youtube.com">https://www.youtube.com</a></p>
+<h2>TUTORIALES Y RECURSOS USADOS</h2>
+<p><strong>TUTORIAL DE CANVA:</strong></p>
+<p><a href="https://youtu.be/QVwg6ieBP2Y?si=q9hnESlKNnpiUqK8" title="">https://youtu.be/QVwg6ieBP2Y?si=q9hnESlKNnpiUqK8 </a></p>
+<p>(Susan Gorbina)</p>
+<p><strong>TUTORIAL DE PERSEUS DIGITAL LIBRARY:</strong></p>
+<p><a href="https://youtu.be/v4oymmVqTnc?si=AuaunUa1S-sfXu7m">https://youtu.be/v4oymmVqTnc?si=AuaunUa1S-sfXu7m</a></p>
+<p>(Makethebrainhappy-Classical Studies)</p>
+<p><strong>TUTORIAL DE RECURSOS DE LATÍN Y GRIEGO:</strong></p>
+<p><a href="https://youtu.be/UQrJgLGDs70?si=wVT6j_wRL83T4h2g">https://youtu.be/UQrJgLGDs70?si=wVT6j_wRL83T4h2g</a></p>
+<p>(Paco Álvarez philologus)</p>
+<p><br /></p>
+<p><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779712721486-dxrzjjwsl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>RECURSOS Y APLICACIONES PARA ESTUDIAR LENGUAS CLÁSICAS</h1>\n<h2>EXPLICACIÓN</h2>\n<p>He utilizado canva para organizar diferentes recursos digitales relacionados con las asignaturas de Latín y Griego. Esta herramienta permite crear un mural interactivo donde se pueden añadir enlaces, imágenes y explicaciones de manera clara y visual. También se han utilizado tutoriales de YouTube para aprender a manejar la plataforma y encontrar recursos educativos fiables sobre cultura clásica, gramática y traducción.</p>\n<h2>HERRAMIENTAS</h2>\n<p><strong>1.- DICCIONARIO LATÍN-GRIEGO LOGEIGON</strong><br />Página muy útil para buscar palabras en latín y griego clásico, con significados y ejemplos.<br />Web: <a href=\"https://logeion.uchicago.edu\">https://logeion.uchicago.edu</a></p>\n<p><strong>2.- PERSEUS DIGITAL LIBRARY</strong><br />Biblioteca digital con textos clásicos en latín y griego, traducciones y análisis.<br />Web: <a href=\"https://www.perseus.tufts.edu\">https://www.perseus.tufts.edu</a></p>\n<p><strong>3.- AULA DE LATÍN</strong><br />Página educativa con apuntes, ejercicios y explicaciones de gramática latina.<br />Web: <a href=\"https://www.auladelatin.com\">https://www.auladelatin.com</a></p>\n<p><strong>4.-DICCIONARIO GRIEGO-ESPAÑOL</strong> <br />Herramienta académica para consultar vocabulario griego clásico.<br />Web: <a href=\"http://dge.cchs.csic.es\">http://dge.cchs.csic.es</a></p>\n<p><strong>5.-YOUTUBE</strong><br />Canales y vídeos educativos sobre mitología, cultura romana y griega.<br />Web: <a href=\"https://www.youtube.com\">https://www.youtube.com</a></p>\n<h2>TUTORIALES Y RECURSOS USADOS</h2>\n<p><strong>TUTORIAL DE CANVA:</strong></p>\n<p><a href=\"https://youtu.be/QVwg6ieBP2Y?si=q9hnESlKNnpiUqK8\" title=\"\">https://youtu.be/QVwg6ieBP2Y?si=q9hnESlKNnpiUqK8 </a></p>\n<p>(Susan Gorbina)</p>\n<p><strong>TUTORIAL DE PERSEUS DIGITAL LIBRARY:</strong></p>\n<p><a href=\"https://youtu.be/v4oymmVqTnc?si=AuaunUa1S-sfXu7m\">https://youtu.be/v4oymmVqTnc?si=AuaunUa1S-sfXu7m</a></p>\n<p>(Makethebrainhappy-Classical Studies)</p>\n<p><strong>TUTORIAL DE RECURSOS DE LATÍN Y GRIEGO:</strong></p>\n<p><a href=\"https://youtu.be/UQrJgLGDs70?si=wVT6j_wRL83T4h2g\">https://youtu.be/UQrJgLGDs70?si=wVT6j_wRL83T4h2g</a></p>\n<p>(Paco Álvarez philologus)</p>\n<p><br /></p>\n<p><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmgf3kc-67qi53rmg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Linea temporal (Tarea 7.1)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Linea temporal (Tarea 7.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Linea temporal (Tarea 7.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Linea temporal (Tarea 7.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmgf3kc-67qi53rmg</odePageId>
+      <odeBlockId>block-1779781600322-mk4vp2nup</odeBlockId>
+      <blockName></blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmgf3kc-67qi53rmg</odePageId>
+          <odeBlockId>block-1779781600322-mk4vp2nup</odeBlockId>
+          <odeIdeviceId>idevice-1779781600312-dpfv7msh1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">MEDEA: pasión, poder y consecuencias </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Línea temporal del proyecto (SdA)</span></span></h1>
+<p><br /></p>
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sesión 1 – Introducción a la tragedia y al proyecto</span></span><br /></h2>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Objetivo: conocer el contexto de la tragedia griega y presentar el proyecto. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Presentación del proyecto y del producto final. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Explicación breve sobre la tragedia griega y el autor Eurípides. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Visionado de un vídeo introductorio sobre Medea. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Agrupamiento: Gran grupo. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramientas: Presentación digital (Canva / PowerPoint) y vídeo educativo. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recursos: Fragmento audiovisual sobre teatro griego y texto introductorio sobre Medea.</span></span></p>
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sesión 2 – Lectura y comprensión de la obra</span></span></h2>
+<p><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Objetivo: comprender la trama principal y los conflictos de la obra. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Conferencia guiada de fragmentos de Medea. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Comentario de texto. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Identificación de temas principales: amor, traición y venganza. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Agrupamiento: Trabajo individual y en parejas. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramientas: Documento digital o libro y plataforma colaborativa (Drive o Classroom). </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recursos: Fragmentos de la obra y guía de preguntas para el comentario.</span></span></p>
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sesión 3 – Análisis de personajes</span></span></h2>
+<p><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Objetivo: analizar el papel de los personajes y sus motivaciones. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Análisis de personajes principales: Medea, Jasón y Creonte. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Creación de un mapa conceptual de personajes. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Agrupamiento: Pequeños grupos (3–4 alumnos). </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramientas: Mapa mental (MindMeister, Canva o papel). </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recursos: Ficha de análisis de personajes y texto de la obra.</span></span></p>
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sesión 4 – Debate y reflexión</span></span></h2>
+<p><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Objetivo: reflexionar sobre los dilemas morales de la obra. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Debate: ¿Es justificable lo que hace Medea? </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Relación con temas actuales: justicia, emociones y papel de la mujer.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Agrupamiento: Debate en gran grupo. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramientas: Pizarra digital y Padlet o foro para recoger opiniones. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recursos: Guía de preguntas para el debate.</span></span></p>
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sesión 5 – Creación del producto final</span></span></h2>
+<p><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Objetivo: elaborar el recurso digital del proyecto. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Creación del recurso en eXeLearning. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Inclusión de análisis de la obra, actividades interactivas, línea temporal y reflexión final. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Agrupamiento: Trabajo en grupos. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramientas: eXeLearning y banco de imágenes libres. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recursos: Vídeos, imágenes y textos seleccionados (curación de contenidos).</span></span></p>
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sesión 6 – Presentación y evaluación</span></span></h2>
+<p><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Objetivo: compartir el trabajo realizado y evaluar el aprendizaje. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Presentación de los proyectos. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Evaluación mediante rúbrica. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">• Reflexión final sobre la obra y el proyecto. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Agrupamiento: Gran grupo. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramientas: Proyector o pizarra digital. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Evaluación: comprensión de la obra, reflexión crítica y calidad del recurso digital.</span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779781600312-dpfv7msh1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">MEDEA: pasión, poder y consecuencias </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Línea temporal del proyecto (SdA)</span></span></h1>\n<p><br /></p>\n<h2><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sesión 1 – Introducción a la tragedia y al proyecto</span></span><br /></h2>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Objetivo: conocer el contexto de la tragedia griega y presentar el proyecto. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Presentación del proyecto y del producto final. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Explicación breve sobre la tragedia griega y el autor Eurípides. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Visionado de un vídeo introductorio sobre Medea. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Agrupamiento: Gran grupo. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramientas: Presentación digital (Canva / PowerPoint) y vídeo educativo. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Recursos: Fragmento audiovisual sobre teatro griego y texto introductorio sobre Medea.</span></span></p>\n<h2><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sesión 2 – Lectura y comprensión de la obra</span></span></h2>\n<p><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Objetivo: comprender la trama principal y los conflictos de la obra. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Conferencia guiada de fragmentos de Medea. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Comentario de texto. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Identificación de temas principales: amor, traición y venganza. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Agrupamiento: Trabajo individual y en parejas. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramientas: Documento digital o libro y plataforma colaborativa (Drive o Classroom). </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Recursos: Fragmentos de la obra y guía de preguntas para el comentario.</span></span></p>\n<h2><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sesión 3 – Análisis de personajes</span></span></h2>\n<p><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Objetivo: analizar el papel de los personajes y sus motivaciones. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Análisis de personajes principales: Medea, Jasón y Creonte. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Creación de un mapa conceptual de personajes. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Agrupamiento: Pequeños grupos (3–4 alumnos). </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramientas: Mapa mental (MindMeister, Canva o papel). </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Recursos: Ficha de análisis de personajes y texto de la obra.</span></span></p>\n<h2><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sesión 4 – Debate y reflexión</span></span></h2>\n<p><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Objetivo: reflexionar sobre los dilemas morales de la obra. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Debate: ¿Es justificable lo que hace Medea? </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Relación con temas actuales: justicia, emociones y papel de la mujer.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Agrupamiento: Debate en gran grupo. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramientas: Pizarra digital y Padlet o foro para recoger opiniones. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Recursos: Guía de preguntas para el debate.</span></span></p>\n<h2><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sesión 5 – Creación del producto final</span></span></h2>\n<p><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Objetivo: elaborar el recurso digital del proyecto. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Creación del recurso en eXeLearning. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Inclusión de análisis de la obra, actividades interactivas, línea temporal y reflexión final. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Agrupamiento: Trabajo en grupos. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramientas: eXeLearning y banco de imágenes libres. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Recursos: Vídeos, imágenes y textos seleccionados (curación de contenidos).</span></span></p>\n<h2><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sesión 6 – Presentación y evaluación</span></span></h2>\n<p><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Objetivo: compartir el trabajo realizado y evaluar el aprendizaje. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Presentación de los proyectos. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Evaluación mediante rúbrica. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">• Reflexión final sobre la obra y el proyecto. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Agrupamiento: Gran grupo. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramientas: Proyector o pizarra digital. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Evaluación: comprensión de la obra, reflexión crítica y calidad del recurso digital.</span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmgf3ke-w929f2xni</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación (Tarea 6.1)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación (Tarea 6.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación (Tarea 6.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmgf3ke-w929f2xni</odePageId>
+      <odeBlockId>block-1779781817332-tx9lg7vgv</odeBlockId>
+      <blockName></blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmgf3ke-w929f2xni</odePageId>
+          <odeBlockId>block-1779781817332-tx9lg7vgv</odeBlockId>
+          <odeIdeviceId>idevice-1779781817330-am0cllv87</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>CRITERIOS DE EVALUACIÓN</h1>
+<table border="1" style="width: 100.047%; height: 454.4px;">
+<tbody>
+<tr style="height: 80.8px;">
+<td style="width: 19.9956%; height: 80.8px;">TAREA</td>
+<td style="width: 19.9956%; height: 80.8px;">CRITERIOS DE EVALUACIÓN</td>
+<td style="width: 19.9956%; height: 80.8px;">AGRUPAMIENTO</td>
+<td style="width: 19.9956%; height: 80.8px;">TIEMPO APROXIMADO</td>
+<td style="width: 19.9956%; height: 80.8px;">HERRAMIENTA SUGERIDA AL ALUMNO</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 19.9956%; height: 56.8px;">Presentación del proyecto</td>
+<td style="width: 19.9956%; height: 56.8px;">Comprender contexto histórico</td>
+<td style="width: 19.9956%; height: 56.8px;">Toda la clase</td>
+<td style="width: 19.9956%; height: 56.8px;">1 sesión</td>
+<td style="width: 19.9956%; height: 56.8px;">Genially o Canva</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9956%; height: 32.8px;">Introducción al texto</td>
+<td style="width: 19.9956%; height: 32.8px;">Reconocer vocabulario</td>
+<td style="width: 19.9956%; height: 32.8px;">Individual</td>
+<td style="width: 19.9956%; height: 32.8px;">1 sesión</td>
+<td style="width: 19.9956%; height: 32.8px;">Docs</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9956%; height: 32.8px;">Análisis morfológico</td>
+<td style="width: 19.9956%; height: 32.8px;">Identificar formas</td>
+<td style="width: 19.9956%; height: 32.8px;">Parejas</td>
+<td style="width: 19.9956%; height: 32.8px;">2 sesiones</td>
+<td style="width: 19.9956%; height: 32.8px;">Docs</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9956%; height: 32.8px;">Traducción guiada</td>
+<td style="width: 19.9956%; height: 32.8px;">Traducción de textos</td>
+<td style="width: 19.9956%; height: 32.8px;">Individual</td>
+<td style="width: 19.9956%; height: 32.8px;">2 sesiones</td>
+<td style="width: 19.9956%; height: 32.8px;">Diccionarios online</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 19.9956%; height: 56.8px;">Investigación sobre la cultura romana</td>
+<td style="width: 19.9956%; height: 56.8px;">Buscar información fiable y certera</td>
+<td style="width: 19.9956%; height: 56.8px;">En grupos</td>
+<td style="width: 19.9956%; height: 56.8px;">2 sesiones</td>
+<td style="width: 19.9956%; height: 56.8px;">Buscadores (Google, Yahoo...)</td>
+</tr>
+<tr style="height: 128.8px;">
+<td style="width: 19.9956%; height: 128.8px;">Creación de actividades interactivas sobre morfología o traducción</td>
+<td style="width: 19.9956%; height: 128.8px;">Crear actividades sobre contenidos determinados</td>
+<td style="width: 19.9956%; height: 128.8px;">En grupos</td>
+<td style="width: 19.9956%; height: 128.8px;">3 sesiones</td>
+<td style="width: 19.9956%; height: 128.8px;">Exelearning</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9956%; height: 32.8px;">Exposición</td>
+<td style="width: 19.9956%; height: 32.8px;">Comunicar contenidos</td>
+<td style="width: 19.9956%; height: 32.8px;">En grupo</td>
+<td style="width: 19.9956%; height: 32.8px;">1 sesión</td>
+<td style="width: 19.9956%; height: 32.8px;">Proyector</td>
+</tr>
+<tr>
+<td style="width: 19.9956%;">Reflexión final</td>
+<td style="width: 19.9956%;">Valorar aprendizaje</td>
+<td style="width: 19.9956%;">Individual</td>
+<td style="width: 19.9956%;">1 sesión</td>
+<td style="width: 19.9956%;">Forms</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779781817330-am0cllv87","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>CRITERIOS DE EVALUACIÓN</h1>\n<table border=\"1\" style=\"width: 100.047%; height: 454.4px;\">\n<tbody>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 19.9956%; height: 80.8px;\">TAREA</td>\n<td style=\"width: 19.9956%; height: 80.8px;\">CRITERIOS DE EVALUACIÓN</td>\n<td style=\"width: 19.9956%; height: 80.8px;\">AGRUPAMIENTO</td>\n<td style=\"width: 19.9956%; height: 80.8px;\">TIEMPO APROXIMADO</td>\n<td style=\"width: 19.9956%; height: 80.8px;\">HERRAMIENTA SUGERIDA AL ALUMNO</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 19.9956%; height: 56.8px;\">Presentación del proyecto</td>\n<td style=\"width: 19.9956%; height: 56.8px;\">Comprender contexto histórico</td>\n<td style=\"width: 19.9956%; height: 56.8px;\">Toda la clase</td>\n<td style=\"width: 19.9956%; height: 56.8px;\">1 sesión</td>\n<td style=\"width: 19.9956%; height: 56.8px;\">Genially o Canva</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9956%; height: 32.8px;\">Introducción al texto</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Reconocer vocabulario</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Individual</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">1 sesión</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Docs</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9956%; height: 32.8px;\">Análisis morfológico</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Identificar formas</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Parejas</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">2 sesiones</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Docs</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9956%; height: 32.8px;\">Traducción guiada</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Traducción de textos</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Individual</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">2 sesiones</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Diccionarios online</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 19.9956%; height: 56.8px;\">Investigación sobre la cultura romana</td>\n<td style=\"width: 19.9956%; height: 56.8px;\">Buscar información fiable y certera</td>\n<td style=\"width: 19.9956%; height: 56.8px;\">En grupos</td>\n<td style=\"width: 19.9956%; height: 56.8px;\">2 sesiones</td>\n<td style=\"width: 19.9956%; height: 56.8px;\">Buscadores (Google, Yahoo...)</td>\n</tr>\n<tr style=\"height: 128.8px;\">\n<td style=\"width: 19.9956%; height: 128.8px;\">Creación de actividades interactivas sobre morfología o traducción</td>\n<td style=\"width: 19.9956%; height: 128.8px;\">Crear actividades sobre contenidos determinados</td>\n<td style=\"width: 19.9956%; height: 128.8px;\">En grupos</td>\n<td style=\"width: 19.9956%; height: 128.8px;\">3 sesiones</td>\n<td style=\"width: 19.9956%; height: 128.8px;\">Exelearning</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9956%; height: 32.8px;\">Exposición</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Comunicar contenidos</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">En grupo</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">1 sesión</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">Proyector</td>\n</tr>\n<tr>\n<td style=\"width: 19.9956%;\">Reflexión final</td>\n<td style=\"width: 19.9956%;\">Valorar aprendizaje</td>\n<td style=\"width: 19.9956%;\">Individual</td>\n<td style=\"width: 19.9956%;\">1 sesión</td>\n<td style=\"width: 19.9956%;\">Forms</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779789150836-0pih1d6tw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación (Tarea 8.1)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación (Tarea 8.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779789150836-0pih1d6tw</odePageId>
+      <odeBlockId>block-1779789156815-1dtmfe3g9</odeBlockId>
+      <blockName></blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779789150836-0pih1d6tw</odePageId>
+          <odeBlockId>block-1779789156815-1dtmfe3g9</odeBlockId>
+          <odeIdeviceId>idevice-1779789156771-eu7mgvtwx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Instrumentos de evaluación del proyecto</h1>
+<p><br />Para evaluar el aprendizaje y la participación del alumnado en este proyecto se utilizarán diferentes instrumentos de evaluación que permitan valorar tanto el proceso de trabajo como el resultado final. La evaluación tendrá un carácter continuo y formativo, favoreciendo la mejora del aprendizaje y la reflexión del alumnado sobre su propio trabajo.</p>
+<p><br />Los instrumentos principales que se utilizarán serán:</p>
+<p><br /><strong>* Rúbrica de evaluación del producto final.</strong></p>
+<p><strong>* Diana de autoevaluación del alumnado.</strong></p>
+<p><br /></p>
+<h2>1. Rúbrica de evaluación del producto final</h2>
+<p><br />La rúbrica es un instrumento que permite evaluar de manera objetiva el trabajo realizado por el alumnado mediante una serie de criterios previamente establecidos. Se aplicará al finalizar el proyecto, una vez entregado el producto final.</p>
+<p><br />La rúbrica valorará aspectos fundamentales como:</p>
+<p><br />* Contenidos trabajados.</p>
+<p>* Creatividad y originalidad.</p>
+<p>* Uso de herramientas digitales.</p>
+<p>* Presentación del trabajo.</p>
+<p>* Trabajo en equipo.</p>
+<p><br />Cada criterio contará con cuatro niveles de desempeño:</p>
+<p><br />* Excelente</p>
+<p>* Bien</p>
+<p>* Suficiente</p>
+<p>* Mejorable</p>
+<p><br />Este instrumento facilitará una evaluación clara, transparente y comprensible para el alumnado.</p>
+<p></p>
+<h2>2. Diana de autoevaluación</h2>
+<p><br />La diana de autoevaluación es un instrumento visual que permite al alumnado reflexionar sobre su participación y aprendizaje durante el proyecto. Se realizará al finalizar la actividad, después de la presentación del trabajo.</p>
+<p><br />Los aspectos que el alumnado valorará serán:</p>
+<p><br />* Participación en el proyecto.</p>
+<p>* Comprensión de los contenidos.</p>
+<p>* Uso de herramientas digitales.</p>
+<p>* Trabajo en equipo.</p>
+<p>* Esfuerzo personal.</p>
+<p><br />La escala de valoración será:</p>
+<p><br />Valor Significado</p>
+<p>1 Necesito mejorar</p>
+<p>2 Nivel básico</p>
+<p>3 Buen nivel</p>
+<p>4 Excelente</p>
+<p><br />La finalidad de este instrumento es fomentar la reflexión, la autonomía y la mejora personal del alumnado.</p>
+<h2><br />3. Uso de los datos obtenidos</h2>
+<p><br />Los resultados obtenidos mediante la rúbrica y la diana de autoevaluación permitirán analizar el proceso de aprendizaje del alumnado y detectar posibles dificultades o necesidades de mejora.</p>
+<p><br />Además, estos datos ayudarán a:</p>
+<p><br />* Ofrecer feedback al alumnado.</p>
+<p>* Mejorar futuras actividades y proyectos.</p>
+<p>* Adaptar la enseñanza a las necesidades del grupo.</p>
+<p>* Favorecer la reflexión sobre el propio aprendizaje.</p>
+<p><br />De esta forma, la evaluación se convierte en una herramienta útil para mejorar tanto la enseñanza como el aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779789156771-eu7mgvtwx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Instrumentos de evaluación del proyecto</h1>\n<p><br />Para evaluar el aprendizaje y la participación del alumnado en este proyecto se utilizarán diferentes instrumentos de evaluación que permitan valorar tanto el proceso de trabajo como el resultado final. La evaluación tendrá un carácter continuo y formativo, favoreciendo la mejora del aprendizaje y la reflexión del alumnado sobre su propio trabajo.</p>\n<p><br />Los instrumentos principales que se utilizarán serán:</p>\n<p><br /><strong>* Rúbrica de evaluación del producto final.</strong></p>\n<p><strong>* Diana de autoevaluación del alumnado.</strong></p>\n<p><br /></p>\n<h2>1. Rúbrica de evaluación del producto final</h2>\n<p><br />La rúbrica es un instrumento que permite evaluar de manera objetiva el trabajo realizado por el alumnado mediante una serie de criterios previamente establecidos. Se aplicará al finalizar el proyecto, una vez entregado el producto final.</p>\n<p><br />La rúbrica valorará aspectos fundamentales como:</p>\n<p><br />* Contenidos trabajados.</p>\n<p>* Creatividad y originalidad.</p>\n<p>* Uso de herramientas digitales.</p>\n<p>* Presentación del trabajo.</p>\n<p>* Trabajo en equipo.</p>\n<p><br />Cada criterio contará con cuatro niveles de desempeño:</p>\n<p><br />* Excelente</p>\n<p>* Bien</p>\n<p>* Suficiente</p>\n<p>* Mejorable</p>\n<p><br />Este instrumento facilitará una evaluación clara, transparente y comprensible para el alumnado.</p>\n<p></p>\n<h2>2. Diana de autoevaluación</h2>\n<p><br />La diana de autoevaluación es un instrumento visual que permite al alumnado reflexionar sobre su participación y aprendizaje durante el proyecto. Se realizará al finalizar la actividad, después de la presentación del trabajo.</p>\n<p><br />Los aspectos que el alumnado valorará serán:</p>\n<p><br />* Participación en el proyecto.</p>\n<p>* Comprensión de los contenidos.</p>\n<p>* Uso de herramientas digitales.</p>\n<p>* Trabajo en equipo.</p>\n<p>* Esfuerzo personal.</p>\n<p><br />La escala de valoración será:</p>\n<p><br />Valor Significado</p>\n<p>1 Necesito mejorar</p>\n<p>2 Nivel básico</p>\n<p>3 Buen nivel</p>\n<p>4 Excelente</p>\n<p><br />La finalidad de este instrumento es fomentar la reflexión, la autonomía y la mejora personal del alumnado.</p>\n<h2><br />3. Uso de los datos obtenidos</h2>\n<p><br />Los resultados obtenidos mediante la rúbrica y la diana de autoevaluación permitirán analizar el proceso de aprendizaje del alumnado y detectar posibles dificultades o necesidades de mejora.</p>\n<p><br />Además, estos datos ayudarán a:</p>\n<p><br />* Ofrecer feedback al alumnado.</p>\n<p>* Mejorar futuras actividades y proyectos.</p>\n<p>* Adaptar la enseñanza a las necesidades del grupo.</p>\n<p>* Favorecer la reflexión sobre el propio aprendizaje.</p>\n<p><br />De esta forma, la evaluación se convierte en una herramienta útil para mejorar tanto la enseñanza como el aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
